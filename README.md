@@ -4,13 +4,12 @@
 
 ---
 
-<div align="center">
-  
 ### GitHub Stats  
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MX2Kadmo&show_icons=true&theme=&include_all_commits=true"/>
+<div align="center">  
+  <img width="49%" padding="0%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MX2Kadmo&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=64A9FF&text_color=fff&bg_color=0d1117" alt="Gabryel Kadmo's stats" />  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabryelKadmo&layout=compact&hide_border=true&title_color=ffffff&text_color=fff&bg_color=0d1117" />
 </div>
-
 ---
 
 <div align="center">
